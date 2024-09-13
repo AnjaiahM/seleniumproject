@@ -42,7 +42,8 @@ public class arrays {
 	public void twoDimArray() {
 		int a[][]= {
 				{1,2},
-				{3,6}
+				{3,6},
+				{5,10}
 		};
 		
 		for(int arr[]:a) {
