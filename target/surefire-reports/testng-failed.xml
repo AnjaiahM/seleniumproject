@@ -12,8 +12,8 @@
           <include name="failTestMethod"/>
           <include name="AfSuite"/>
           <include name="beforemethod"/>
-          <include name="initializer"/>
           <include name="Aftertest"/>
+          <include name="initializer"/>
           <include name="clickGmail"/>
           <include name="getTitle"/>
           <include name="AfterMethod"/>
